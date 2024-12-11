@@ -1,4 +1,4 @@
-#Project README: Deep Learning Projects with RNN and LSTM
+Project README: Deep Learning Projects with RNN and LSTM
 
 Overview
 
